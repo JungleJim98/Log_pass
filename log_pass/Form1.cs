@@ -20,7 +20,6 @@ namespace log_pass
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
             bool read;
             SqlDataReader rdr = null;
             string connection = "server=192.168.1.5;database=students;UID=kpv_student;password=GRAgLqO5";
