@@ -1,0 +1,9 @@
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\bin\Release\log_pass.exe.config
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\bin\Release\log_pass.exe
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\bin\Release\log_pass.pdb
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\obj\Release\log_pass.csprojResolveAssemblyReference.cache
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\obj\Release\log_pass.Form1.resources
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\obj\Release\log_pass.Properties.Resources.resources
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\obj\Release\log_pass.csproj.GenerateResource.Cache
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\obj\Release\log_pass.exe
+C:\Users\LysenokGA\Documents\Visual Studio 2015\Projects\log_pass\log_pass\obj\Release\log_pass.pdb
